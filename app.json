@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Sallehni",
+    "slug": "sallehni",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://images.pexels.com/photos/3806249/pexels-photo-3806249.jpeg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "https://images.pexels.com/photos/3806249/pexels-photo-3806249.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#1E3A8A"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://images.pexels.com/photos/3806249/pexels-photo-3806249.jpeg",
+        "backgroundColor": "#1E3A8A"
+      }
+    },
+    "web": {
+      "favicon": "https://images.pexels.com/photos/3806249/pexels-photo-3806249.jpeg"
+    }
+  }
+}
